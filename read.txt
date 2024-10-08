@@ -108,3 +108,5 @@ echo "Кубический корень числа 1: " . roundSigFig(pow($a, 1/
 echo "Кубический корень числа 2: " . roundSigFig(pow($b, 1/3), countSigDig($b)) . "\n";
 echo "Кубический корень числа 3: " . roundSigFig(pow($c, 1/3), countSigDig($c)) . "\n";
 ?>
+
+upd: 2 commit go
